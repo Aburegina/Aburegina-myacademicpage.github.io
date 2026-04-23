@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in literary, cultural and linguistics studies, University of Miami, 2030 (expected)
+* M.A. French & Francophone Literature, Purdue University, 2024
+* B.A. French, University of Cape Coast, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 : Teaching Assistant
+  * University of Miami
+  * Duties include: Tutoring students of French & grading
+  * Supervisor: Dr. Viviana Pezzulo
 
 * Fall 2015: Research Assistant
   * GitHub University
